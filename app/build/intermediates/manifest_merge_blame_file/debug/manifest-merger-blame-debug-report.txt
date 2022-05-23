@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.mp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:5:5-28:19
+12        android:allowBackup="true"
+12-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.0.1] /Users/lmn/.gradle/caches/transforms-2/files-2.1/51ec9767ead7a598d20dd24a7369e6f6/core-1.0.1/AndroidManifest.xml:22:18-86
+14        android:debuggable="true"
+15        android:icon="@drawable/lowgo"
+15-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:7:9-39
+16        android:label="@string/app_name"
+16-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:8:9-41
+17        android:roundIcon="@drawable/lowgo"
+17-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:9:9-44
+18        android:supportsRtl="true"
+18-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:11:9-40
+21        <service
+21-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:13:9-15:38
+22            android:name="com.example.riddlemethis.MusicService"
+22-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:14:13-65
+23            android:enabled="true" />
+23-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:15:13-35
+24
+25        <activity android:name="com.example.riddlemethis.Username" />
+25-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:17:9-79
+25-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:17:19-67
+26        <activity android:name="com.example.riddlemethis.Launcher" >
+26-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:18:9-24:20
+26-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:18:19-67
+27            <intent-filter>
+27-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:19:13-23:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:20:17-69
+28-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:20:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:22:17-77
+30-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:22:27-74
+31            </intent-filter>
+32        </activity>
+33
+34        <meta-data
+34-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:25:9-27:57
+35            android:name="preloaded_fonts"
+35-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:26:13-43
+36            android:resource="@array/preloaded_fonts" />
+36-->/Users/lmn/Downloads/RiddleMeThis/app/src/main/AndroidManifest.xml:27:13-54
+37    </application>
+38
+39</manifest>

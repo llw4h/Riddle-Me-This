@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable_custom_button.xml.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/drawable/custom_button.xml"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable_buttonl1.xml.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/drawable/buttonl1.xml"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable-v24_lowgo.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/drawable-v24/lowgo.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable-v24_harto.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/drawable-v24/harto.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/font_yantramanav.ttf.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/font/yantramanav.ttf"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable_button.xml.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/drawable/button.xml"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable_bblue.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/drawable/bblue.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable_buttonl4.xml.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/drawable/buttonl4.xml"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/layout_activity_launcher.xml.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/layout/activity_launcher.xml"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/font_nosifer.xml.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/font/nosifer.xml"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/font_fascinate.ttf.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/font/fascinate.ttf"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/layout_activity_username.xml.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/layout/activity_username.xml"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable_buttonl2.xml.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/drawable/buttonl2.xml"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/font_bevan.xml.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/font/bevan.xml"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable_whitebg.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/drawable/whitebg.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/font_atomic_age.xml.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/font/atomic_age.xml"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/raw_win.mp3.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/raw/win.mp3"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/font_baloo.ttf.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/font/baloo.ttf"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/font_tauri.ttf.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/font/tauri.ttf"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_logo.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/mipmap-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_logo.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/mipmap-anydpi-v26/logo.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable_qm.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/drawable/qm.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable_bgreen.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/drawable/bgreen.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/raw_sunny.mp3.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/raw/sunny.mp3"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable-v24_logo.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/drawable-v24/logo.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/font_yantramanav_thin.xml.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/font/yantramanav_thin.xml"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/drawable_buttonl3.xml.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/drawable/buttonl3.xml"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/raw_oof.mp3.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/raw/oof.mp3"
+    },
+    {
+        "merged": "/Users/lmn/Downloads/RiddleMeThis/app/build/intermediates/res/merged/debug/font_press_start_2p.xml.flat",
+        "source": "/Users/lmn/Downloads/RiddleMeThis/app/src/main/res/font/press_start_2p.xml"
+    }
+]
