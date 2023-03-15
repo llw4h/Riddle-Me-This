@@ -21,7 +21,4 @@ For inspo, repo or people
 -->
 #### This app was made for an Android app final project.
 
-## License
-Users of software using an MIT License are permitted to use, copy, modify, merge publish, distribute, sublicense and sell copies of the software.
-
-MIT © [Lulwah](https://github.com/llw4h)
+GPL © [Lulwah](https://github.com/llw4h)
