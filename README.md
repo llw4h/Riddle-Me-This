@@ -20,5 +20,3 @@ Reference to API's used
 For inspo, repo or people
 -->
 #### This app was made for an Android app final project.
-
-GPL © [Lulwah](https://github.com/llw4h)
