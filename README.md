@@ -19,4 +19,3 @@ Reference to API's used
 ## Credits
 For inspo, repo or people
 -->
-#### This app was made for an Android app final project.
